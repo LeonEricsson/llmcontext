@@ -1,5 +1,5 @@
 # Pressure testing open-source instruction finetuned LLMs
-This is derivative work of [Needle In A Haystack - Pressure Testing LLMs](https://github.com/gkamradt/LLMTest_NeedleInAHaystack) with a implementation for open-sourced models. Credit goes to him for laying out the groundwork! My goal is to test how well commonly used models in the LLM community fair in simple retrieval within their context window. From @gkamradt's work it's clear that models are inconsistent in how well they handle their context window, we don't however have this kind of intuition for open-source work. 
+This is derivative work of [Needle In A Haystack - Pressure Testing LLMs](https://github.com/gkamradt/LLMTest_NeedleInAHaystack) with a implementation for open-sourced models. Credit goes to him for laying out the groundwork! My goal is to test how well commonly used models in the LLM community fair in simple retrieval within their context window. From @gkamradt's work it's clear that Claude and GPT-4 are inconsistent in how well they handle their context window; how do our favorite OS models handle this?
 
 ## The Test
 1. Place a random fact or statement (the 'needle') in the middle of a long context window (the 'haystack')
