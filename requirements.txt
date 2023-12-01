@@ -1,0 +1,7 @@
+transformers
+optimum>=1.12.0 --extra-index-url https://huggingface.github.io/autogptq-index/whl/cu118/
+flash_attn --no-build-isolation
+accelerate
+langchain
+openai
+numpy
