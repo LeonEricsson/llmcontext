@@ -34,6 +34,10 @@ An ongoing list of models to pressure test.
 1. Mistral 7B Instruct v0.2
 ```
 
+## Implementation
+
+Just a quick note on the implementation. @gkamradt refactored and cleaned the code significantly since I originally started working on this. I don't plan to sync this with his more polished version. This code works fine but it's hacky.
+
 ## Results
 
 Each test consists of a retrieval, at certain depth percentage, for a given context length. The results are combined into a pivot table illustrating how well the model response was, judged by GPT-4. The scoring system is defined as
