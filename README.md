@@ -1,8 +1,8 @@
-# Pressure testing open-source instruction finetuned LLMs
+# Pressure Testing: Open LLMs
 
-This is derivative work of [Needle In A Haystack - Pressure Testing LLMs](https://github.com/gkamradt/LLMTest_NeedleInAHaystack). I intend to carry out the same experiment but for open-source models which I can run locally. Credit goes to him for laying out the groundwork! My goal is to test how well commonly used models in the LLM community fair in simple retrieval within their context window. From @gkamradt's work it's clear that Claude and GPT-4 are inconsistent in how well they handle their context window; but what about our favorite OS models?
+This is derivative work of [Needle In A Haystack - Pressure Testing LLMs](https://github.com/gkamradt/LLMTest_NeedleInAHaystack), a project where @gkamradt explored the in-context retrieval abilities of GPT-4 and Claude 2. I was impressed by the insights gained from this test, and as an open-source enthusiast, I felt compelled to extend the experiment to the broader open-source LLM market. This ongoing project focuses on examining the in-context retrieval capabilities of popular open-source models. My primary aim is to evaluate how these widely-used models in the LLM community perform in terms of simple retrieval within their context window. I welcome suggestions for additional models to include in our study, particularly those with larger context windows and the ability to run locally on a 4090.
 
-**Update:** Anthropic ran their own pressure tests and covered it in [this](https://www.anthropic.com/index/claude-2-1-prompting) blog post. They were able to massivively improve in-context retrieval performance by priming the model response with `Here is the most relevant sentence in the text:`. I also intend to test how this effects performance.
+**Note:** As a response to @gkamradt's work, Anthropic ran their own pressure tests, covered in [this](https://www.anthropic.com/index/claude-2-1-prompting) blog post. They were able to massivively improve in-context retrieval performance by priming the model response with `Here is the most relevant sentence in the text:`. I also intend to test how this effects performance.
 
 ## The Test
 
