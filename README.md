@@ -1,10 +1,14 @@
-# Pressure testing open-source instruction finetuned LLMs
+# Pressure Testing: Open LLMs 💢
 
-This is derivative work of [Needle In A Haystack - Pressure Testing LLMs](https://github.com/gkamradt/LLMTest_NeedleInAHaystack). I intend to carry out the same experiment but for open-source models which I can run locally. Credit goes to him for laying out the groundwork! My goal is to test how well commonly used models in the LLM community fair in simple retrieval within their context window. From @gkamradt's work it's clear that Claude and GPT-4 are inconsistent in how well they handle their context window; but what about our favorite OS models?
+This is derivative work of [Needle In A Haystack - Pressure Testing LLMs](https://github.com/gkamradt/LLMTest_NeedleInAHaystack), a project where @gkamradt explored the in-context retrieval abilities of GPT-4 and Claude 2. I was impressed by the insights gained from this test, and as an open-source enthusiast, I felt compelled to extend the experiment to the broader open-source LLM market. This ongoing project focuses on examining the in-context retrieval capabilities of popular open-source models. My primary aim is to evaluate how these widely-used models in the LLM community perform in terms of simple retrieval within their context window. I welcome suggestions for additional models to include in our study, particularly those with larger context windows and the ability to run locally on a 4090.
 
+<<<<<<< HEAD
 **Update:** Anthropic ran their own pressure tests and covered it in [this](https://www.anthropic.com/index/claude-2-1-prompting) blog post. They were able to massivively improve in-context retrieval performance by priming the model response with `Here is the most relevant sentence in the text:`. All tests using this retrieval priming technique will be suffixed with `rp`.
+=======
+**Note:** As a response to @gkamradt's work, Anthropic ran their own pressure tests, covered in [this](https://www.anthropic.com/index/claude-2-1-prompting) blog post. They were able to massivively improve in-context retrieval performance by priming the model response with `Here is the most relevant sentence in the text:`. I also intend to test how this effects performance.
+>>>>>>> fe85262672fb1645d0b48f799f6aa95b933b5b28
 
-## The Test
+## The Test 📝
 
 1. Place a random fact or statement (the 'needle') in the middle of a long context window (the 'haystack')
 2. Ask the model to retrieve this statement using the following prompt format
@@ -26,7 +30,7 @@ Assistant: Here is the most relevant sentence in the text:
 
 3. Iterate over various document depths (where the needle is placed) and context lengths to measure performance
 
-## Roadmap
+## Roadmap 🛣️
 
 An ongoing list of models to pressure test.
 
@@ -34,7 +38,7 @@ An ongoing list of models to pressure test.
 1. Mistral 7B Instruct v0.2
 ```
 
-## Results
+## Results 📊
 
 Each test consists of a retrieval, at certain depth percentage, for a given context length. The results are combined into a pivot table illustrating how well the model response was, judged by GPT-4. The scoring system is defined as
 
@@ -48,7 +52,7 @@ Score 10: The answer is completely accurate and aligns perfectly with the refere
 
 I have slightly adjusted @gkamradt's visualization code to work for this project. The code can be found [here](/utils/visualize.ipynb). The raw results are found in `results/`.
 
-### Mistral-7B-Instruct-v0.2 @ 16k
+### Mistral-7B-Instruct-v0.2 @ 16k 
 
 This model is trained on 8k context but features a theoretical context window of up to 128k, made possible through sliding window attention.
 
