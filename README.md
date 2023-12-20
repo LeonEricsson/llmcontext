@@ -60,6 +60,14 @@ Using the retrieval priming technique from Anthropic, results improve **tremendo
 
 ![](/img/mistral_7b_16k_rp.png)
 
+### OpenChat 7B 3.5-1210 @ 8k
+
+![](/img/openchat-3.5-1210_8k.png)
+
+### OpenChat 7B 3.5-1210 @ 8k [RP]
+
+![](/img/openchat-3.5-1210_8k_rp.png)
+
 ## Implementation
 
 Just a quick note on the implementation. @gkamradt refactored and cleaned the code significantly since I originally started working on this. I don't plan to sync this with his more polished version. This code works fine but it's hacky.
