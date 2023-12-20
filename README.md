@@ -2,7 +2,7 @@
 
 This is derivative work of [Needle In A Haystack - Pressure Testing LLMs](https://github.com/gkamradt/LLMTest_NeedleInAHaystack). I intend to carry out the same experiment but for open-source models which I can run locally. Credit goes to him for laying out the groundwork! My goal is to test how well commonly used models in the LLM community fair in simple retrieval within their context window. From @gkamradt's work it's clear that Claude and GPT-4 are inconsistent in how well they handle their context window; but what about our favorite OS models?
 
-**Update:** Anthropic ran their own pressure tests and covered it in [this](https://www.anthropic.com/index/claude-2-1-prompting) blog post. They were able to massivively improve in-context retrieval performance by priming the model response with `Here is the most relevant sentence in the text:`. I also intend to test how this effects performance.
+**Update:** Anthropic ran their own pressure tests and covered it in [this](https://www.anthropic.com/index/claude-2-1-prompting) blog post. They were able to massivively improve in-context retrieval performance by priming the model response with `Here is the most relevant sentence in the text:`. All tests using this retrieval priming technique will be suffixed with `rp`.
 
 ## The Test
 
@@ -50,7 +50,15 @@ I have slightly adjusted @gkamradt's visualization code to work for this project
 
 ### Mistral-7B-Instruct-v0.2 @ 16k
 
+This model is trained on 8k context but features a theoretical context window of up to 128k, made possible through sliding window attention.
+
 ![](/img/mistral_7b_16k.png)
+
+### Mistral-7B-Instruct-v0.2 @ 16k [RP]
+
+Using the retrieval priming technique from Anthropic, results improve **tremendously**.The model is capable of handling contexts exceeding 8k. However, its performance is characterized by volatility; it tends to either achieve flawless success or encounter complete failure.
+
+![](/img/mistral_7b_16k_rp.png)
 
 ## Implementation
 
