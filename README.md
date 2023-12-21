@@ -68,6 +68,20 @@ Using the retrieval priming technique from Anthropic, results improve **tremendo
 
 ![](/img/openchat-3.5-1210_8k_rp.png)
 
+### Starling LM 7B Alpha @ 8k
+
+Starling is finetuned from OpenChat 3.5 and is one of the best 7B models on Chatbot Arena.
+
+![](/img/starling-lm-7b-alpha.png)
+
+### Starling LM 7B Alpha @ 8k [RP]
+
+![](/img/starling-lm-7b-alpha_rp.png)
+
+### Toppy 7B @ 16k
+
+![](/img/toppy-7b.png)
+
 ## Implementation
 
 Just a quick note on the implementation. @gkamradt refactored and cleaned the code significantly since I originally started working on this. I don't plan to sync this with his more polished version. This code works fine but it's hacky.

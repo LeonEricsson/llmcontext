@@ -1,0 +1,821 @@
+[
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 0,
+    "depth_percent": 0,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "score": 10
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 0,
+    "depth_percent": 8,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "score": 10
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 0,
+    "depth_percent": 17,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "score": 10
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 0,
+    "depth_percent": 25,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "score": 10
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 0,
+    "depth_percent": 33,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "score": 10
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 0,
+    "depth_percent": 42,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "score": 10
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 0,
+    "depth_percent": 50,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "score": 10
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 0,
+    "depth_percent": 58,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "score": 10
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 0,
+    "depth_percent": 67,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "score": 10
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 0,
+    "depth_percent": 75,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "score": 10
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 0,
+    "depth_percent": 83,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "score": 10
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 0,
+    "depth_percent": 92,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "score": 10
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 0,
+    "depth_percent": 100,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "score": 10
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 2667,
+    "depth_percent": 0,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "Eat a sandwich and sit in Dolores Park on a sunny day.",
+    "score": 10
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 2667,
+    "depth_percent": 8,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "When I was a kid, I'd have said there wasn't. My father told me so. Some people like some things, and other people like other things, and who's to say who's right? It seemed so obvious that there was no such thing as good taste that it was only through indirect evidence that I realized my father was wrong. And that's what I'm going to give you here: a proof by reductio ad absurdum. If we start from the premise that there's no such thing as good taste, we end up with conclusions that are obviously false, and therefore the premise must be wrong. And that's what I'm going to give you here: a proof by reductio ad absurdum. If we start from the premise that there's no such thing as good taste, we end up with conclusions that are obviously false, and therefore the premise must be wrong. And that's what I'm going to give you here: a proof by reductio ad absurdum. If we start from the premise that there's no such thing as good taste, we end up with conclusions that are obviously false, and therefore the premise must be wrong. And that's what I'm going to give you here: a proof by reductio ad absurdum. If we start from the premise that there's no such thing as good taste, we",
+    "score": 1
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 2667,
+    "depth_percent": 17,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "score": 10
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 2667,
+    "depth_percent": 25,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "score": 10
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 2667,
+    "depth_percent": 33,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "score": 10
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 2667,
+    "depth_percent": 42,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "score": 10
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 2667,
+    "depth_percent": 50,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "score": 10
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 2667,
+    "depth_percent": 58,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "score": 10
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 2667,
+    "depth_percent": 67,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "score": 10
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 2667,
+    "depth_percent": 75,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "Eat a sandwich and sit in Dolores Park on a sunny day.",
+    "score": 10
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 2667,
+    "depth_percent": 83,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "score": 10
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 2667,
+    "depth_percent": 92,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "score": 10
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 2667,
+    "depth_percent": 100,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "score": 10
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 5333,
+    "depth_percent": 0,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "\nOne great thing about having small children is that they make you spend time on things that matter: them. They grab your sleeve as you're staring at your phone and say \"will you play with me?\" And odds are that is in fact the bullshit-minimizing option. If you're in San Francisco with small children, consider finding a fun activity to do with them that they'll cherish.",
+    "score": 1
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 5333,
+    "depth_percent": 8,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "\nOne great thing about having small children is that they make you spend time on things that matter: them. They grab your sleeve as you're staring at your phone and say \"will you play with me?\" And odds are that is in fact the bullshit-minimizing option. If you're in San Francisco with small children, consider playing with them instead of staring at your phone.",
+    "score": 1
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 5333,
+    "depth_percent": 17,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "\nOne great thing about having small children is that they make you spend time on things that matter: them. They grab your sleeve as you're staring at your phone and say \"will you play with me?\" And odds are that is in fact the bullshit-minimizing option. If you're in San Francisco with small children, consider finding a fun activity to do with them that they'll remember fondly.",
+    "score": 1
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 5333,
+    "depth_percent": 25,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "\nThe best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "score": 10
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 5333,
+    "depth_percent": 33,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "\nEat a sandwich and sit in Dolores Park on a sunny day.",
+    "score": 10
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 5333,
+    "depth_percent": 42,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "\nThe law of supply and demand insures that: the more rewarding some kind of work is, the cheaper people will do it. The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day. Indeed, the law of supply and demand insures that: the more rewarding some kind of work is, the cheaper people will do it. The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "score": 1
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 5333,
+    "depth_percent": 50,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "\nThe best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "score": 10
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 5333,
+    "depth_percent": 58,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "\nOne great thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "score": 10
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 5333,
+    "depth_percent": 67,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "\nThe best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day. It's easy to let the days rush by. The \"flow\" that imaginative people love so much has a darker cousin that prevents you from pausing to savor life amid the daily slurry of errands and alarms. One of the most striking things I've read was not in a book, but the title of one: James Salter's Burning the Days. It is possible to slow time somewhat. I've gotten better at it. Kids help. When you have small children, there are a lot of moments so perfect that you can't help noticing. It does help too to feel that you've squeezed everything out of some experience. The reason I'm sad about my mother is not just that I miss her but that I think of all the things we could have done that we didn't. My oldest son will be 7 soon. And while I miss the 3 year old version of him, I at least don't have any regrets over what might have been. We had the best time a daddy and a 3 year old ever had. Relentlessly prune bullshit, don't wait to do things that matter, and savor the time you have. That's what you do when life is short. Noteworthy: At first I didn",
+    "score": 10
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 5333,
+    "depth_percent": 75,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "\nEat a sandwich and sit in Dolores Park on a sunny day.",
+    "score": 10
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 5333,
+    "depth_percent": 83,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "\nThe best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "score": 10
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 5333,
+    "depth_percent": 92,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "\nThe best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "score": 10
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 5333,
+    "depth_percent": 100,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "\nThe best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "score": 10
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 8000,
+    "depth_percent": 0,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "\nThe text does not provide any information about fun things to do in San Francisco. Please provide more context or information.",
+    "score": 1
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 8000,
+    "depth_percent": 8,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "\nThe text doesn't provide any information about fun things to do in San Francisco. Please provide more context or information.",
+    "score": 1
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 8000,
+    "depth_percent": 17,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "\nThe text does not provide any information about fun things to do in San Francisco. Please provide more context or a different text.",
+    "score": 1
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 8000,
+    "depth_percent": 25,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "\nThe text does not provide any information about fun things to do in San Francisco. Please provide more context or a different text.",
+    "score": 1
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 8000,
+    "depth_percent": 33,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "\nYou could visit the Golden Gate Bridge, which is mentioned in the text as a symbol of San Francisco.",
+    "score": 1
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 8000,
+    "depth_percent": 42,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "\nThe text does not provide any information about fun things to do in San Francisco. Please provide more context or a different text.",
+    "score": 1
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 8000,
+    "depth_percent": 50,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "\nThe text doesn't provide any specific fun activities to do in San Francisco. It mainly discusses the author's experiences and thoughts about philosophy and education.",
+    "score": 1
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 8000,
+    "depth_percent": 58,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "\nThe best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "score": 10
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 8000,
+    "depth_percent": 67,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "\nThe best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "score": 10
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 8000,
+    "depth_percent": 75,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "\nThe best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "score": 10
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 8000,
+    "depth_percent": 83,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "\nThe best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "score": 10
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 8000,
+    "depth_percent": 92,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "\nThe best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "score": 10
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 8000,
+    "depth_percent": 100,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "\nThe best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "score": 10
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 10667,
+    "depth_percent": 0,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "\nThe text does not provide any information about fun things to do in San Francisco. Please provide more context or a different text.",
+    "score": 1
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 10667,
+    "depth_percent": 8,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "\nThe text does not provide any information about fun things to do in San Francisco. Please provide a different prompt.",
+    "score": 1
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 10667,
+    "depth_percent": 17,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "\nThe text does not provide any information about fun things to do in San Francisco. Please provide more context or a different text.",
+    "score": 1
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 10667,
+    "depth_percent": 25,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "\nThe text does not provide any information about fun things to do in San Francisco. Please provide a different prompt.",
+    "score": 1
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 10667,
+    "depth_percent": 33,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "\nThe text does not provide any information about fun things to do in San Francisco. Please provide a different prompt.",
+    "score": 1
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 10667,
+    "depth_percent": 42,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "\nThe text does not provide any information about fun things to do in San Francisco. Please provide more context or a different text.",
+    "score": 1
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 10667,
+    "depth_percent": 50,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "\nThe most relevant sentence to your request is: \"The most general plus useful idea in the text is that of the controlled experiment. There's an idea that has turned out to be widely applicable. Some might say it's part of science, but it's not part of any specific science; it's literally meta-physics (in our sense of 'meta').\" Based on this, a fun thing to do in San Francisco could be visiting a science museum or participating in a science experiment workshop.",
+    "score": 1
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 10667,
+    "depth_percent": 58,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "\nThe text does not provide any information about fun things to do in San Francisco. Please provide more context or a different text.",
+    "score": 1
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 10667,
+    "depth_percent": 67,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "\nEat a sandwich and sit in Dolores Park on a sunny day.",
+    "score": 10
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 10667,
+    "depth_percent": 75,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "\nThe text suggests that the best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "score": 10
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 10667,
+    "depth_percent": 83,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "\nThe text doesn't provide any information about fun things to do in San Francisco. It discusses philosophy and its history, as well as proposing a new approach to the subject.",
+    "score": 1
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 10667,
+    "depth_percent": 92,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "\nThe best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "score": 10
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 10667,
+    "depth_percent": 100,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "score": 10
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 13333,
+    "depth_percent": 0,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "\nVisit a startup that releases early, pumps out features, and makes users happy.",
+    "score": 1
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 13333,
+    "depth_percent": 8,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "\nVisit a startup that releases early and keeps pumping out features, and observe how they make users happy.",
+    "score": 1
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 13333,
+    "depth_percent": 17,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "\nVisit a startup that releases early and keeps pumping out features, and observe how they make users happy.",
+    "score": 1
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 13333,
+    "depth_percent": 25,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "\nVisit a startup that releases early and keeps pumping out features, and observe how they make users happy.",
+    "score": 1
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 13333,
+    "depth_percent": 33,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "\nVisit a startup that releases early, pumps out features, and makes users happy.",
+    "score": 1
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 13333,
+    "depth_percent": 42,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "\nOne fun thing to do in San Francisco is to visit Dolores Park and have a picnic while enjoying the views of the city.",
+    "score": 7
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 13333,
+    "depth_percent": 50,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "\nRelease early and keep pumping out features. This is not just a good way to get development done; it is also a form of marketing. Users love a site that's constantly improving. In fact, users expect a site to improve. If you're the rare exception-- a company that actually listens-- you'll generate fanatical loyalty. You won't need to advertise, because your users will do it for you.",
+    "score": 1
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 13333,
+    "depth_percent": 58,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "\nVisit a startup that releases early and keeps pumping out features, and observe how they make users happy.",
+    "score": 1
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 13333,
+    "depth_percent": 67,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "\nVisit a startup that releases early, pumps out features, and makes users happy.",
+    "score": 1
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 13333,
+    "depth_percent": 75,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "\nThe most relevant sentence to answer your question is: \"Make users happy.\" In San Francisco, you could visit a startup that prioritizes user happiness and see how they implement this principle in their products or services. This could be a fun and informative experience.",
+    "score": 1
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 13333,
+    "depth_percent": 83,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "\nThe startups we've funded so far are pretty quick, but they seem quicker to learn some lessons than others. I think it's because some things about startups are kind of counterintuitive. They're the ones I have to keep repeating.\n\n### Explanation:\n\nThe text suggests that startups in San Francisco have some counterintuitive aspects that need to be repeated. One of these aspects is the importance of releasing a product early and continuously improving it based on user feedback. This approach may seem counterintuitive, but it is emphasized as a key lesson for startups. Therefore, a fun thing to do in San Francisco could be to visit some of these startups and observe how they implement these counterintuitive strategies. Alternatively, one could attend startup events or workshops in the city to learn more about these approaches.",
+    "score": 1
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 13333,
+    "depth_percent": 92,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "\nThey'll like you even better when you improve in response to their comments, because customers are used to companies ignoring them. If you're the rare exception-- a company that actually listens-- you'll generate fanatical loyalty. You won't need to advertise, because your users will do it for you.\n\n### Explanation:\n\nThe text suggests that users appreciate a company that listens to their feedback and makes improvements based on it. This can lead to fanatical loyalty and positive word-of-mouth advertising. In San Francisco, a fun thing to do could be to visit a startup that demonstrates these qualities and see how they interact with their users.",
+    "score": 1
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 13333,
+    "depth_percent": 100,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "\nThe best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "score": 10
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 16000,
+    "depth_percent": 0,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "\nVisit a startup and observe their commitment and determination.",
+    "score": 1
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 16000,
+    "depth_percent": 8,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "\nVisit a startup and observe their commitment and determination.",
+    "score": 1
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 16000,
+    "depth_percent": 17,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "\nVisit a startup and observe their commitment and determination.",
+    "score": 1
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 16000,
+    "depth_percent": 25,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "\nVisit a startup and observe their commitment and determination.",
+    "score": 1
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 16000,
+    "depth_percent": 33,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "\nVisit a startup and observe their commitment and determination.",
+    "score": 1
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 16000,
+    "depth_percent": 42,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "\nVisit a startup and observe their commitment and determination.",
+    "score": 1
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 16000,
+    "depth_percent": 50,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "\nVisit a startup and observe their commitment and determination.",
+    "score": 1
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 16000,
+    "depth_percent": 58,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "\nVisit a startup and observe their commitment and determination.",
+    "score": 1
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 16000,
+    "depth_percent": 67,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "\nVisit a startup and observe their commitment and determination.",
+    "score": 1
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 16000,
+    "depth_percent": 75,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "\nVisit a startup and observe how they make users happy by showing them what their site is about.",
+    "score": 1
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 16000,
+    "depth_percent": 83,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "\nThe best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "score": 10
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 16000,
+    "depth_percent": 92,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "\nSit in Dolores Park on a sunny day.",
+    "score": 7
+  },
+  {
+    "model": "undi95/Toppy-M-7B",
+    "context_length": 16000,
+    "depth_percent": 100,
+    "version": 1,
+    "needle": "The best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "model_response": "\nThe best thing to do in San Francisco is eat a sandwich and sit in Dolores Park on a sunny day.",
+    "score": 10
+  }
+]
