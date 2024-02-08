@@ -2,7 +2,7 @@
 
 This is derivative work of [Needle In A Haystack - Pressure Testing LLMs](https://github.com/gkamradt/LLMTest_NeedleInAHaystack), a project where @gkamradt explored the in-context retrieval abilities of GPT-4 and Claude 2. I was impressed by the insights gained from this test, and as an open-source enthusiast, I felt compelled to extend the experiment to the broader open-source LLM market. This ongoing project focuses on examining the in-context retrieval capabilities of popular open-source models. My primary aim is to evaluate how these widely-used models in the LLM community perform in terms of simple retrieval within their context window. I welcome suggestions for additional models to include in our study, particularly those with larger context windows and the ability to run with 24GB VRAM + 64GB RAM.
 
-**Note:** As a response to @gkamradt's work, Anthropic ran their own pressure tests, covered in [this](https://www.anthropic.com/index/claude-2-1-prompting) blog post. They were able to massivively improve in-context retrieval performance by priming the model response with `Here is the most relevant sentence in the text:`. I also intend to test how this effects performance. All my tests using this retrieval priming technique will be suffixed with `rp`.
+**Note:** As a response to @gkamradt's work, Anthropic ran their own pressure tests, covered in [this](https://www.anthropic.com/index/claude-2-1-prompting) blog post. They were able to massivively improve in-context retrieval performance by priming the model response with `Here is the most relevant sentence in the text:`. All my tests using this retrieval priming technique will be suffixed with `rp`.
 
 ## The Test 📝
 
@@ -21,7 +21,7 @@ that contains the answer to the user's question. I will now provide the text
 
 User: {prompt}
 
-Assistant: Here is the most relevant sentence in the text:
+Assistant: {retrival primer}
 ```
 
 3. Iterate over various document depths (where the needle is placed) and context lengths to measure performance
