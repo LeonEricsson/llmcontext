@@ -58,7 +58,7 @@ Qwen doesn't have any attention optimizations (SHA, MHA, MQA, GQA), hence scalin
 
 Wish I could test how well this does at higher contexts, all Qwen 1.5 support contexts up to 32k in practice.
 
-![](qwen1.5-7b.png)
+![](/img/qwen1.5-7b.png)
 
 ### Mistral-7B-Instruct-v0.2 @ 16k
 
