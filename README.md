@@ -48,6 +48,18 @@ Score 10: The answer is completely accurate and aligns perfectly with the refere
 
 I have slightly adjusted @gkamradt's visualization code to work for this project. The code can be found [here](/utils/visualize.ipynb). The raw results are found in `results/`.
 
+### Qwen-1.5-4B @ 7k [RP]
+
+Qwen doesn't have any attention optimizations (SHA, MHA, MQA, GQA), hence scaling contexts is super expensive in terms of VRAM :( 
+
+![](/img/qwen1.5-4b-rp.png)
+
+### Qwen-1.5-7B @ 7k [RP]
+
+Wish I could test how well this does at higher contexts, all Qwen 1.5 support contexts up to 32k in practice.
+
+![](qwen1.5-7b.png)
+
 ### Mistral-7B-Instruct-v0.2 @ 16k
 
 This model is trained on 8k context but features a theoretical context window of up to 128k, made possible through sliding window attention.
